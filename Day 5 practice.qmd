@@ -1,0 +1,17 @@
+---
+title: "Day5_stats"
+format: html
+editor: visual
+---
+
+```{r}
+
+teddy <- 5
+banjo <- 7
+tallie <- 4
+
+teddy
+
+teddy <= banjo
+```
+
