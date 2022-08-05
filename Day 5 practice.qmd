@@ -4,6 +4,8 @@ format: html
 editor: visual
 ---
 
+## A few logical Expressions
+
 ```{r}
 
 teddy <- 5
